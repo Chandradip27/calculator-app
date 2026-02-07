@@ -28,4 +28,4 @@ if __name__ == "__main__":
     print("5 + 3 =", add(5, 3))
     print("10 - 4 =", subtract(10, 4))
     print("6 * 7 =", multiply(6, 7))
-    print("8 / 2 =", divide(8, 2))
+    print("8 / 2 =", divide(8, 2)
